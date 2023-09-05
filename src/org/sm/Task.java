@@ -8,6 +8,8 @@ public class Task {
 		String s2= "R";
 		
 		System.out.println(s1);
+		
+		System.out.println(s2);
 	}
 
 }
